@@ -1,0 +1,1 @@
+The player gets one question-word and should choose the right translation among the 4 suggested answers.
